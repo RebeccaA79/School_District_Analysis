@@ -1,2 +1,2 @@
 # School_District_Analysis
-new repository for sec4.2.3
+data analysis over school standarized testing and how it can be used to plan for school district budgeting
