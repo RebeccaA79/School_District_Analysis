@@ -8,9 +8,13 @@ A data analysis was prepared over school district standardized testing scores to
 Using bulleted lists and images of DataFrames as support, address the following questions:
 
 1. How is the district summary affected?
+
 Analysis at the district level shows that the average math and reading scores changed minimally. Average reading score remained at 81.9 and the average math score dropped from 79 to 78.9. The passing math % and passing reading %, however, were noticeably impacted. Passing math % dropped from 87% to 74.8% and Passing reading % dropped from 100% to 85.7%.
 
 2. How is the school summary affected?
+
+The passing math, reading, and overall percentages for Thomas High School declined (approximately 25%) once the ninth-grade math and reading scores were replaced. In the updated School Summary, Thomas High School’s performance is significantly lower in comparison to the other schools. 
+
 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 4. How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
