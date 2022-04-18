@@ -16,7 +16,7 @@ The following bullets summarize how removing Thomas High School 9th grade scores
   
 2. School Summary Impacts:
 
-With the exception of Thomas High School, there were no impacts to the School Summary Anaysis data for the remaining high schools See the next bullet on how Thomas High School was impacted.
+With the exception of Thomas High School, there were no impacts to the School Summary Analysis data for the remaining high schools See the next bullet on how Thomas High School was impacted.
 
 3. The passing math, reading, and overall percentages for Thomas High School declined (approximately 25%) once the ninth-grade math and reading scores were replaced. In the updated School Summary, Thomas High School’s performance is significantly lower in comparison to the other schools.
 
@@ -33,5 +33,7 @@ With the exception of Thomas High School, there were no impacts to the School Su
  
 
 ## Summary
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+After the reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs, the most noted impacts to the district analysis included:
 
+ - At the district level, passing math % dropped from 87% to 74.8% and passing reading % dropped from 100% to 85.7%.
+ - Thomas High School’s passing math, reading, and overall percentages decreased by approximately 25%.
