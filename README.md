@@ -21,6 +21,7 @@ The following bullets summarize how removing Thomas High School 9th grade scores
 The passing math, reading, and overall percentages for Thomas High School declined (approximately 25%) once the ninth-grade math and reading scores were replaced. In the updated School Summary, Thomas High School’s performance is significantly lower in comparison to the other schools.
 
 4. How does replacing the ninth-grade scores affect the following:
+  
   a. Math and reading scores by grade
 
 The math and reading scores for 9th grade at Thomas High School was updated to NaN. Math and reading scores for all other grades and High Schools remained unchanged.
